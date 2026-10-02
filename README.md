@@ -1,11 +1,11 @@
 <!-- ===================== CABEÇALHO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:db2777&height=180&section=header&text=Ana%20Carolina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Player%201%20entrou%20no%20jogo&descAlignY=58&descSize=18" alt="Cabeçalho"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:800020&height=180&section=header&text=Ana%20Carolina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Player%201%20entrou%20no%20jogo&descAlignY=58&descSize=18" alt="Cabeçalho"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Desenvolvedora+Java+%2B+Spring+Boot;Analista+de+Solu%C3%A7%C3%B5es+%40+Capgemini;Estudante+de+ADS+no+SENAC+Recife;Do+atendimento+ao+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C2185B&center=true&vCenter=true&width=620&lines=Desenvolvedora+Full+Stack;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript;Analista+de+Solu%C3%A7%C3%B5es+%40+Capgemini;Estudante+de+ADS+no+SENAC+Recife;Do+atendimento+ao+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://img.shields.io/badge/Recife%2C%20PE-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Recife, PE"/>
-  <img src="https://komarev.com/ghpvc/?username=http-krolina&label=Visitantes&color=a855f7&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=http-krolina&label=Visitantes&color=800020&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
 ---
@@ -22,13 +22,9 @@
 ## 🎮 Ficha da personagem
 
 ```yaml
-jogadora:   Ana Carolina (Carol)
-classe:     Desenvolvedora Back-end
-nível:      Analista de Soluções I
-guilda:     Capgemini Brasil · Programa Start
-academia:   Análise e Desenvolvimento de Sistemas · SENAC Recife
-origem:     3+ anos no Atendimento ao Cliente
-base:       Recife, PE 🌊
+jogadora:   Carol
+classe:     Desenvolvedora Full Stack
+base:       Recife, PE
 habilidade_passiva: "Entende o problema de quem usa o sistema antes de escrever a primeira linha"
 ```
 
@@ -47,17 +43,17 @@ Trabalho em equipe   █████████████████░░�
 
 ## 🗺️ Missões
 
+## 🗺️ Missões
+ 
 **✅ Concluídas**
 - [x] 🎯 Trocar o atendimento ao cliente pela tecnologia
-- [x] 🏅 Ser aprovada no **Programa Start** da Capgemini
+- [x] 🏅 Conquistar a primeira vaga em tecnologia
 - [x] ☕ Construir as primeiras APIs CRUD com Java + Spring Boot
 - [x] 🐙 Criar 20+ repositórios no GitHub
-
 **⏳ Em andamento**
 - [ ] 📚 Concluir a graduação em ADS
 - [ ] 🐘 Migrar meus projetos do H2 para PostgreSQL
 - [ ] ⚛️ Subir de nível no React
-
 **🔒 Bloqueadas (em breve)**
 - [ ] 🏆 Primeira certificação Java
 - [ ] 🌍 Primeira contribuição open source
@@ -66,23 +62,21 @@ Trabalho em equipe   █████████████████░░�
 
 ## 🧰 Inventário
 
-**Armas principais**
+**⚔️ Back-end**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Armas secundárias**
+**🛡️ Front-end**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Itens de suporte**
 
@@ -142,7 +136,7 @@ Trabalho em equipe   █████████████████░░�
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,100:7c3aed&height=110&section=footer" alt="Rodapé"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:000000&height=110&section=footer" alt="Rodapé"/>
 </p>
 
 <p align="center"><i>Continue? <b>[ S ]</b> / N</i> 🕹️</p>
