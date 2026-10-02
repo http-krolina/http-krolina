@@ -50,10 +50,12 @@ Trabalho em equipe   █████████████████░░�
 - [x] 🏅 Conquistar a primeira vaga em tecnologia
 - [x] ☕ Construir as primeiras APIs CRUD com Java + Spring Boot
 - [x] 🐙 Criar 20+ repositórios no GitHub
+
 **⏳ Em andamento**
 - [ ] 📚 Concluir a graduação em ADS
 - [ ] 🐘 Migrar meus projetos do H2 para PostgreSQL
 - [ ] ⚛️ Subir de nível no React
+
 **🔒 Bloqueadas (em breve)**
 - [ ] 🏆 Primeira certificação Java
 - [ ] 🌍 Primeira contribuição open source
