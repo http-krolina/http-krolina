@@ -138,5 +138,3 @@ Trabalho em equipe   █████████████████░░�
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:000000&height=110&section=footer" alt="Rodapé"/>
 </p>
-
-<p align="center"><i>Continue? <b>[ S ]</b> / N</i> 🕹️</p>
