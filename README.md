@@ -19,7 +19,7 @@
 
 ---
 
-## 🎮 Ficha da personagem
+##  Ficha da personagem
 
 ```yaml
 jogadora:   Carol
@@ -28,7 +28,7 @@ base:       Recife, PE
 habilidade_passiva: "Entende o problema de quem usa o sistema antes de escrever a primeira linha"
 ```
 
-### ⚔️ Atributos
+###  Atributos
 
 ```text
 Java / Spring Boot   ██████████████░░░░░░  Nv. 7
@@ -41,9 +41,9 @@ Trabalho em equipe   █████████████████░░�
 
 ---
 
-## 🗺️ Missões
+##  Missões
 
-## 🗺️ Missões
+##  Missões
  
 **✅ Concluídas**
 - [x] 🎯 Trocar o atendimento ao cliente pela tecnologia
@@ -62,9 +62,9 @@ Trabalho em equipe   █████████████████░░�
 
 ---
 
-## 🧰 Inventário
+##  Inventário
 
-**⚔️ Back-end**
+** Back-end**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -72,7 +72,7 @@ Trabalho em equipe   █████████████████░░�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**🛡️ Front-end**
+** Front-end**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -93,30 +93,26 @@ Trabalho em equipe   █████████████████░░�
 
 ---
 
-## 🏆 Troféus
+## Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=http-krolina&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Troféus do GitHub"/>
 </p>
 
-## 🔥 Sequência de contribuições
+## Sequência de contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=http-krolina&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
-## 📊 Status da jogadora
+## Status da jogadora
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=http-krolina&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-krolina&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=http-krolina&theme=tokyo-night&hide_border=true&area=true&color=a855f7&line=db2777&point=ffffff" alt="Gráfico de atividade"/>
-</p>
-
-## 📌 Fases desbloqueadas (projetos)
+## Fases desbloqueadas (projetos)
 
 | Fase | Projeto | Sobre |
 |:---:|---|---|
