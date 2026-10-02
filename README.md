@@ -127,8 +127,6 @@ Trabalho em equipe   █████████████████░░�
 
 ---
 
-## 🐍 Bônus: a cobrinha comendo minhas contribuições
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/http-krolina/http-krolina/output/github-snake-dark.svg" />
